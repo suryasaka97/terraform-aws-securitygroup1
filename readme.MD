@@ -8,3 +8,6 @@
 * sg_tags (Optional)
 
 
+## outputs ##
+
+* sg_id
